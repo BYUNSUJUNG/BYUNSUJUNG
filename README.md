@@ -1,4 +1,12 @@
-### Hi there👋
+
+  
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBYUNSUJUNG"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+
+
+##### Hi there, I'm Sujung Byun👋
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BYUNSUJUNG&show_icons=true&theme=blueberry)
 
