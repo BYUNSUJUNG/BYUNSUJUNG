@@ -2,10 +2,7 @@
 
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%238AB6FF&title_bg=%2387FFB4&icon=smugmug.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)
-	
 
-
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:snugyun01@gmail.com)
 -----
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BYUNSUJUNG&show_icons=true&theme=blueberry)
