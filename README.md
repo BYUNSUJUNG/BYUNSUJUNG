@@ -6,7 +6,10 @@
 💬 If you want to contact me, please leave me a message! 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BYUNSUJUNG&show_icons=true&theme=blueberry)
-
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyup592@gmail.com)](mailto:pyup592@gmail.com)
+	
+  
 <!--
 **BYUNSUJUNG/BYUNSUJUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
