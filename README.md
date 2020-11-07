@@ -5,7 +5,7 @@
 
 💬 If you want to contact me, please leave me a message! 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IDOSTUDIO&show_icons=true&theme=blueberry)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IDOSTUDIO&show_icons=true&theme=gruvbox)
 	
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idostudioid@gmail.com)](mailto:pyup592@gmail.com)
 	
