@@ -1,5 +1,5 @@
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBYUNSUJUNG&count_bg=%2398BBFF&title_bg=%2300FFAE&icon=protocols-dot-io.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIDOSTUDIOID&count_bg=%23FFB000&title_bg=%2300FF38&icon=iconify.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 **Hi there, I'm [IDO](https://github.com/IDOSTUDIOID)🌱**
 
