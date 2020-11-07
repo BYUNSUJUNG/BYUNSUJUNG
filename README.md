@@ -1,13 +1,13 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBYUNSUJUNG&count_bg=%2398BBFF&title_bg=%2300FFAE&icon=protocols-dot-io.svg&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**Hi there, I'm [SuJung Byun](https://github.com/BYUNSUJUNG)🌱**
+**Hi there, I'm [IDO](https://github.com/IDOSTUDIOID)🌱**
 
 💬 If you want to contact me, please leave me a message! 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BYUNSUJUNG&show_icons=true&theme=blueberry)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=IDOSTUDIO&show_icons=true&theme=blueberry)
 	
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pyup592@gmail.com)](mailto:pyup592@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:idostudioid@gmail.com)](mailto:pyup592@gmail.com)
 	
   
 <!--
